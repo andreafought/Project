@@ -10,11 +10,13 @@ Content
 
 1. Introduction
 
-I am a huge fan of music and it has always crossed my mind if popular songs get to the top of the charts by mere luck or is their a certain type of song/genre that will have more chances. In order to furthur investigate this, I found a top tracks spotify datbase that measures all types of variables to be able to correlate against success.
+I am a huge fan of music and it has always been a question if there is any underlying reason taht popular songs get to the top of the charts. Is it by mere luck or is their a certain type of song/genre that will have more chances? In order to furthur investigate this, I found a top tracks spotify datbase that measures some basic types of variables to be able to correlate against success.
 
 3. Questions and hypothesis
 
 The research question is to understand which variables play a role in the popularity of a song in the top ranks of Spotify. This was 
+
+4. Variables
 
 The variables measured and observed:
 
@@ -44,12 +46,11 @@ The link to the spotify kaggle database: https://www.kaggle.com/pepepython/spoti
 
 5. Workflow
 
-To track and monitor the workflow for this project, a trello board was used. The process started with finding a topic and a datebase that would be able to answer my questions. This database was based through data clenaing and wrangling with python, to then be firstly explored within python and then passed into tableau. Once trends, questions and possible graphics were identified, the next step was to try to explain the data through a story using a dashboard. 
+To track and monitor the workflow for this project, a trello board was used. The process started with finding a topic and a database that would be able to answer my questions. This database was based through data cleaning and wrangling with python, to then be firstly explored within python and then passed into tableau. Once trends, questions and possible graphics were identified, the next step was to try to explain the data through a story using a dashboard. 
 
 Link to dashboard: 
 
-7. 
-8. Links
+6. Links
 
 Introduction:
 Questions and hypothesis 

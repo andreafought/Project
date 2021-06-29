@@ -1,6 +1,8 @@
 
 # TOP SONGS ON SPOTFY: What makes them popular?
 
+![](spotifyimage.png)
+
 Content 
 1. Introduction
 2. Questions and hypothesis

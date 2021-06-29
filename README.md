@@ -8,7 +8,14 @@ Content
 2. Questions and hypothesis
 3. Dataset
 4. Workflow
+5. 
+6. Links
 
+Introduction:
+Questions and hypothesis 
+Workflow
 
-Introduction
-
+Links:
+Trello
+Slides
+Repository

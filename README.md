@@ -9,8 +9,6 @@ Content
 3. Dataset
 4. Variables
 5. Workflow
-6. Data Exoloreation
-7. Findings
 
 
 1. Introduction

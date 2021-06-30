@@ -9,7 +9,8 @@ Content
 3. Dataset
 4. Variables
 5. Workflow
-6. Findings
+6. Data Exoloreation
+7. Findings
 
 
 1. Introduction
@@ -30,7 +31,7 @@ The link to the spotify kaggle database: https://www.kaggle.com/pepepython/spoti
 
 The variables measured and observed:
 
-- Artistfollowers: The number of followers the artist has on Spotify on the 5th of November 2020 
+- Artist followers: The number of followers the artist has on Spotify on the 5th of November 2020 
 - Explicit: Whether the song is rated as ‘Parental Advisory Explicit Content’ or not
 - Popularity: The popularity score calculated taking into account both the number of days a song stayed in the Top200 and the position it stayed in every day, weighting more the top positions
 - Danceability: How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable
@@ -44,7 +45,7 @@ The variables measured and observed:
 - Liveness: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live
 - Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry)
 - Tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration
-- Durationms: The duration of the track in milliseconds
+- Duration : The duration of the track in seconds
 
 
 5. Workflow

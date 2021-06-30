@@ -51,7 +51,6 @@ The variables measured and observed:
 
 To track and monitor the workflow for this project, a trello board was used. The process started with finding a topic and a database that would be able to answer my questions. This database was based through data cleaning and wrangling with python, to then be firstly explored within python and then passed into tableau. Once trends, questions and possible graphics were identified, the next step was to try to explain the data through a story using a dashboard.
 
-6. Findings
 
 Link to dashboard: 
 

@@ -54,6 +54,11 @@ To track and monitor the workflow for this project, a trello board was used. The
 
 Link to dashboard: 
 
+
+6. Analysis and Findings
+
+With the use of python and tableau, findings and speculations were infered based on the data. With the research question, what variables play a role on the popularity of a song, 
+
 7. Links
 
 Trello

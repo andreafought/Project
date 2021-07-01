@@ -5,10 +5,12 @@
 
 Content
 1. Introduction
-2. Questions and hypothesis 
-3. Dataset
-4. Variables
-5. Workflow
+
+
+3. Questions and hypothesis 
+4. Dataset
+5. Variables
+6. Workflow
 
 
 1. Introduction
@@ -36,7 +38,7 @@ The variables measured and observed:
 - Energy: It is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy
 - Key: The estimated overall key of the track. Integers map to pitches using standard Pitch Class notation. E.g. 0 = C, 1 = C♯/D♭, 2 = D, and so on. If no key was detected, the value is -1
 - Loudness: The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude). Values typical range between -60 and 0 db
-- Mode: indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived. Major is represented by 1 and minor is 0
+- Mode: indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived. Major is represented by 1 and minor is 0.
 -Speechiness: Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks
 - Acousticness: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic
 - Instrumentalness: Predicts whether a track contains no vocals. “Ooh” and “aah” sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly “vocal”. The closer the instrumentalness: value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0
@@ -52,12 +54,13 @@ The variables measured and observed:
 To track and monitor the workflow for this project, a trello board was used. The process started with finding a topic and a database that would be able to answer my questions. This database was based through data cleaning and wrangling with python, to then be firstly explored within python and then passed into tableau. Once trends, questions and possible graphics were identified, the next step was to try to explain the data through a story using a dashboard.
 
 
-Link to dashboard: 
-
+Link to dashboard: https://public.tableau.com/app/profile/andrea.fought/viz/Spotify_Project_16249173678800/Mode
 
 6. Analysis and Findings
 
-With the use of python and tableau, findings and speculations were infered based on the data. With the research question, what variables play a role on the popularity of a song, 
+With the use of python and tableau, findings and speculations were infered based on the data. The research question looked into was what variables play a role on the popularity of a song. 
+
+
 
 7. Links
 

@@ -57,11 +57,16 @@ Link to trello board:
 
 With the use of python and tableau, findings and speculations were infered based on the data. The research question looked into was what variables play a role on the popularity of a song. Imagine you are an up and coming arist and don't have an extensive fan base. If your goals are to one day reach the top charts of Spotify, what type of song must you produce to have the highest chances?
 
-In this analysis we will go over the many variables and try to identify the perfect musical formula to achieve success. 
+In the exploration phase I wanted to visualize any corrlation between the numeric variables, in which we can see that loudness and energy are hughly correlated. This would make sense as with more energy in a song it normally will have an increased volume. The main correlation I wanted to observe was if any of the variables was highly correlated with popularity. This was not the case, but that does not fully mean that it doesn't play a role, but rather the popularity of a song will have countless variables that could play a role. In order to continue with the project, I was determined to find the formula of a song with variables a musician could control.
+
+<img width="917" alt="Screen Shot 2021-07-02 at 9 21 28 PM" src="https://user-images.githubusercontent.com/83591280/124320134-9e67df80-db7b-11eb-8524-18593e0cf4fb.png">
+
+In this analysis we will go over the many variables and try to identify the perfect musical formula to achieve success. In th pie charts below we observe that major and clean songs are amost the most popular. 
 
 <img width="223" alt="Screen_Shot_2021-07-02_at_12 11 58_AM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309321-d6b2f200-db6a-11eb-95bf-aff4f3d40720.png">
 
 <img width="297" alt="Screen_Shot_2021-06-30_at_6 36 57_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309358-e3374a80-db6a-11eb-871f-ff53c348542a.png">
+
 
 
 <img width="256" alt="Screen_Shot_2021-06-30_at_11 48 18_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309235-b8e58d00-db6a-11eb-8234-029d9b31f297.png">

@@ -67,9 +67,14 @@ In this analysis we will go over the many variables and try to identify the perf
 
 <img width="297" alt="Screen_Shot_2021-06-30_at_6 36 57_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309358-e3374a80-db6a-11eb-871f-ff53c348542a.png">
 
-
+The next bubble chart the most popular data is in C#, but this just might be due to Ed Sheeran being the most popular artist and him majoritly playing in that key. 
 
 <img width="256" alt="Screen_Shot_2021-06-30_at_11 48 18_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309235-b8e58d00-db6a-11eb-8234-029d9b31f297.png">
+
+<img width="723" alt="Screen Shot 2021-06-30 at 6 28 02 PM" src="https://user-images.githubusercontent.com/83591280/124320716-af652080-db7c-11eb-8be8-e396f463411d.png">
+
+
+<img width="635" alt="Screen Shot 2021-07-01 at 6 39 06 PM" src="https://user-images.githubusercontent.com/83591280/124320610-79c03780-db7c-11eb-8fa9-5be1ba4ceec8.png">
 
 <img width="573" alt="Screen Shot 2021-07-01 at 10 02 37 PM" src="https://user-images.githubusercontent.com/83591280/124309282-c864d600-db6a-11eb-97c5-d616976da070.png">
 

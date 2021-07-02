@@ -82,6 +82,9 @@ The next couple visuals are based on the the upper 75th quartile of all the glob
 
 <img width="635" alt="Screen Shot 2021-07-01 at 6 39 06 PM" src="https://user-images.githubusercontent.com/83591280/124320610-79c03780-db7c-11eb-8fa9-5be1ba4ceec8.png">
 
+<img width="214" alt="Screen Shot 2021-07-02 at 9 52 17 PM" src="https://user-images.githubusercontent.com/83591280/124333927-ded45700-db95-11eb-8ba6-23d9f217897a.png">
+
+
 The last graph can also be observed based on genre, as pop and bolero will have differences in their variables. As many artits will not change genre, it is important to have the dimensions for different genres in order to create a formula based on recipe.
 
 <img width="573" alt="Screen Shot 2021-07-01 at 10 02 37 PM" src="https://user-images.githubusercontent.com/83591280/124309282-c864d600-db6a-11eb-97c5-d616976da070.png">

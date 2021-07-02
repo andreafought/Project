@@ -1,4 +1,3 @@
-
 # TOP SONGS ON SPOTFY: What makes them popular?
 
 ![](spotifyimage.png)
@@ -60,7 +59,7 @@ With the use of python and tableau, findings and speculations were infered based
 
 In this analysis we will go over the many variables and try to identify the perfect musical formula to achieve success. 
 
-
+<img width="593" alt="Screen Shot 2021-06-30 at 11 48 18 PM" src="https://user-images.githubusercontent.com/83591280/124309156-96537400-db6a-11eb-9884-e741b6998138.png">
 
 
 

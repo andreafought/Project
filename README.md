@@ -11,7 +11,7 @@ Content
 6. Analysis and findings
 
 
-1. Introduction
+1.Introduction
 
 I am a huge fan of music and it has always been a question if there is any underlying reason taht popular songs get to the top of the charts. Is it by mere luck or is their a certain type of song/genre that will have more chances? In order to furthur investigate this, I found a top tracks spotify datbase that measures some basic types of variables to be able to correlate against success.
 

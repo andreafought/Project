@@ -59,7 +59,16 @@ With the use of python and tableau, findings and speculations were infered based
 
 In this analysis we will go over the many variables and try to identify the perfect musical formula to achieve success. 
 
-<img width="593" alt="Screen Shot 2021-06-30 at 11 48 18 PM" src="https://user-images.githubusercontent.com/83591280/124309156-96537400-db6a-11eb-9884-e741b6998138.png">
+<img width="223" alt="Screen_Shot_2021-07-02_at_12 11 58_AM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309321-d6b2f200-db6a-11eb-95bf-aff4f3d40720.png">
+
+<img width="297" alt="Screen_Shot_2021-06-30_at_6 36 57_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309358-e3374a80-db6a-11eb-871f-ff53c348542a.png">
+
+
+<img width="256" alt="Screen_Shot_2021-06-30_at_11 48 18_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309235-b8e58d00-db6a-11eb-8234-029d9b31f297.png">
+
+<img width="573" alt="Screen Shot 2021-07-01 at 10 02 37 PM" src="https://user-images.githubusercontent.com/83591280/124309282-c864d600-db6a-11eb-97c5-d616976da070.png">
+
+<img width="502" alt="Screen Shot 2021-07-01 at 10 10 22 PM" src="https://user-images.githubusercontent.com/83591280/124309297-ce5ab700-db6a-11eb-83c6-a2b157082cd2.png">
 
 
 

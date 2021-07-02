@@ -1,5 +1,3 @@
-<img width="451" alt="Screen Shot 2021-06-30 at 6 39 25 PM" src="https://user-images.githubusercontent.com/83591280/124326860-77afa600-db87-11eb-87b5-7c773063135f.png">
-<img width="451" alt="Screen Shot 2021-06-30 at 6 39 25 PM" src="https://user-images.githubusercontent.com/83591280/124326901-8ac27600-db87-11eb-834a-7d88a8aef52b.png">
 # TOP SONGS ON SPOTFY: What makes them popular?
 
 ![](spotifyimage.png)
@@ -69,6 +67,10 @@ In this analysis we will go over the many variables and try to identify the perf
 <img width="223" alt="Screen_Shot_2021-07-02_at_12 11 58_AM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309321-d6b2f200-db6a-11eb-95bf-aff4f3d40720.png">
 
 <img width="297" alt="Screen_Shot_2021-06-30_at_6 36 57_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309358-e3374a80-db6a-11eb-871f-ff53c348542a.png">
+
+The bar chart demonstrates that pop music is substancially more popular than any other genre.
+
+<img width="451" alt="Screen Shot 2021-06-30 at 6 39 25 PM" src="https://user-images.githubusercontent.com/83591280/124326901-8ac27600-db87-11eb-834a-7d88a8aef52b.png">
 
 The next bubble chart the most popular data is in C#, but this just might be due to Ed Sheeran being the most popular artist and him majoritly playing in that key. The subseqent chart demonstrates the most popular global artsists from 2017-2020 in Spotify.
 

@@ -51,13 +51,13 @@ To track and monitor the workflow for this project, a trello board was used. The
 
 
 Link to dashboard: https://public.tableau.com/app/profile/andrea.fought/viz/Spotify_Project_16249173678800/Mode
-Link to trello board: 
+Link to trello board: https://trello.com/b/VgDCPe6S/data-theives-project-spotify
 
 6. Analysis and Findings
 
 With the use of python and tableau, findings and speculations were infered based on the data. The research question looked into was what variables play a role on the popularity of a song. Imagine you are an up and coming arist and don't have an extensive fan base. If your goals are to one day reach the top charts of Spotify, what type of song must you produce to have the highest chances?
 
-In the exploration phase I wanted to visualize any corrlation between the numeric variables, in which we can see that loudness and energy are hughly correlated. This would make sense as with more energy in a song it normally will have an increased volume. The main correlation I wanted to observe was if any of the variables was highly correlated with popularity. This was not the case, but that does not fully mean that it doesn't play a role, but rather the popularity of a song will have countless variables that could play a role. In order to continue with the project, I was determined to find the formula of a song with variables a musician could control.
+In the exploration phase I wanted to visualize any correlation between the numeric variables, in which we can see that loudness and energy are hughly correlated. This would make sense as with more energy in a song it normally will have an increased volume. The main correlation I wanted to observe was if any of the variables was highly correlated with popularity. This was not the case, but that does not fully mean that it doesn't play a role, but rather the popularity of a song will have countless variables that could play a role. In order to continue with the project, I was determined to find the formula of a song with variables a musician could control.
 
 <img width="917" alt="Screen Shot 2021-07-02 at 9 21 28 PM" src="https://user-images.githubusercontent.com/83591280/124320134-9e67df80-db7b-11eb-8524-18593e0cf4fb.png">
 
@@ -67,14 +67,13 @@ In this analysis we will go over the many variables and try to identify the perf
 
 <img width="297" alt="Screen_Shot_2021-06-30_at_6 36 57_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309358-e3374a80-db6a-11eb-871f-ff53c348542a.png">
 
-The next bubble chart the most popular data is in C#, but this just might be due to Ed Sheeran being the most popular artist and him majoritly playing in that key. The subseqent chart demonstrates the most popular artsist from 2017-2020 in Spotify.
+The next bubble chart the most popular data is in C#, but this just might be due to Ed Sheeran being the most popular artist and him majoritly playing in that key. The subseqent chart demonstrates the most popular global artsists from 2017-2020 in Spotify.
 
 <img width="256" alt="Screen_Shot_2021-06-30_at_11 48 18_PM-removebg-preview" src="https://user-images.githubusercontent.com/83591280/124309235-b8e58d00-db6a-11eb-8234-029d9b31f297.png">
 
 <img width="723" alt="Screen Shot 2021-06-30 at 6 28 02 PM" src="https://user-images.githubusercontent.com/83591280/124320716-af652080-db7c-11eb-8be8-e396f463411d.png">
 
-
-
+The next couple visuals are based on the the upper 75th quartile of all the global popularity, in which we can observe that most tracks have high danceability and energy. The valence is in the middle, meaning that the users like similarly both positive and negative songs. Acoustics, liveliness and speechiness are low meaning the songs are not recorded in live audiences and the vocals are quite high compared to the instrumentation. The average song is 2075 seconds or 3.4 minutes, the average tempo is 120 bmp and the average loudness is -5.81 db.
 
 <img width="635" alt="Screen Shot 2021-07-01 at 6 39 06 PM" src="https://user-images.githubusercontent.com/83591280/124320610-79c03780-db7c-11eb-8fa9-5be1ba4ceec8.png">
 

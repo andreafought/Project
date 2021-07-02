@@ -5,8 +5,6 @@
 
 Content
 1. Introduction
-
-
 3. Questions and hypothesis 
 4. Dataset
 5. Variables
@@ -54,15 +52,16 @@ To track and monitor the workflow for this project, a trello board was used. The
 
 
 Link to dashboard: https://public.tableau.com/app/profile/andrea.fought/viz/Spotify_Project_16249173678800/Mode
+Link to trello board: 
 
 6. Analysis and Findings
 
-With the use of python and tableau, findings and speculations were infered based on the data. The research question looked into was what variables play a role on the popularity of a song. 
+With the use of python and tableau, findings and speculations were infered based on the data. The research question looked into was what variables play a role on the popularity of a song. Imagine you are an up and coming arist and don't have an extensive fan base. If your goals are to one day reach the top charts of Spotify, what type of song must you produce to have the highest chances?
+
+In this analysis we will go over the many variables and try to identify the perfect musical formula to achieve success. 
 
 
 
-7. Links
 
-Trello
-Slides
-Repository
+
+

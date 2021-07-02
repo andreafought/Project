@@ -4,10 +4,11 @@
 
 Content
 1. Introduction
-3. Questions and hypothesis 
-4. Dataset
-5. Variables
-6. Workflow
+2. Questions and hypothesis 
+3. Dataset
+4. Variables
+5. Workflow
+6. Analysis and findings
 
 
 1. Introduction
